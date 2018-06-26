@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 1ca8e7992f37d764fa60d46c8d050743
+timeCreated: 1454736920
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gears2_0
+    21300002: gears2_1
+    21300004: gears2_2
+    21300006: gears2_3
+    21300008: gears2_4
+    21300010: gears2_5
+    21300012: gears2_6
+    21300014: gears2_7
+    21300016: gears2_8
+    21300018: gears2_9
+    21300020: gears2_10
+    21300022: gears2_11
+    21300024: gears2_12
+    21300026: gears2_13
+    21300028: gears2_14
+    21300030: gears2_15
+    21300032: gears2_16
+    21300034: gears2_17
+    21300036: gears2_18
+    21300038: gears2_19
+    21300040: gears2_20
+    21300042: gears2_21
+    21300044: gears2_22
+    21300046: gears2_23
+    21300048: gears2_24
+    21300050: gears2_25
+    21300052: gears2_26
+    21300054: gears2_27
+    21300056: gears2_28
+    21300058: gears2_29
+    21300060: gears2_30
+    21300062: gears2_31
+    21300064: gears2_32
+    21300066: gears2_33
+    21300068: gears2_34
+    21300070: gears2_35
+    21300072: gears2_36
+    21300074: gears2_37
+    21300076: gears2_38
+    21300078: gears2_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gears2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2002
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2002
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2002
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2002
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2002
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+        - {x: 98.53143, y: -128}
+        - {x: 98.53143, y: 128}
+    - name: gears2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1716
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1716
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1716
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1716
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_9
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1716
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+        - {x: 98.53143, y: -128}
+        - {x: 98.53143, y: 128}
+    - name: gears2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1430
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1430
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1430
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1430
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1430
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+        - {x: 98.53143, y: -128}
+        - {x: 98.53143, y: 128}
+    - name: gears2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1144
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1144
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_18
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1144
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_19
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1144
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+        - {x: 98.53143, y: -128}
+        - {x: 98.53143, y: 128}
+    - name: gears2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 858
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 858
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_23
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 858
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_24
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 858
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+        - {x: 98.53143, y: -128}
+        - {x: 98.53143, y: 128}
+    - name: gears2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 572
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 572
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 572
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_29
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 572
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+        - {x: 98.53143, y: -128}
+        - {x: 98.53143, y: 128}
+    - name: gears2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 286
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 286
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_33
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 286
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_34
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 286
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+        - {x: 98.53143, y: -128}
+        - {x: 98.53143, y: 128}
+    - name: gears2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98, y: 128}
+        - {x: -98, y: -128}
+        - {x: 98, y: -128}
+        - {x: 98, y: 128}
+    - name: gears2_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.86714, y: 128}
+        - {x: -97.86714, y: -128}
+        - {x: 98.13286, y: -128}
+        - {x: 98.13286, y: 128}
+    - name: gears2_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.73428, y: 128}
+        - {x: -97.73428, y: -128}
+        - {x: 98.26572, y: -128}
+        - {x: 98.26572, y: 128}
+    - name: gears2_38
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.60138, y: 128}
+        - {x: -97.60138, y: -128}
+        - {x: 98.39862, y: -128}
+        - {x: 98.39862, y: 128}
+    - name: gears2_39
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 218
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.46857, y: -128}
+        - {x: -94.46857, y: 128}
+        - {x: -97.46857, y: 128}
+        - {x: -97.46857, y: -128}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
